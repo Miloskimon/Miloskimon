@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i from Brazil, Rio de janeiro, Im 21 years Old.   
 <div>
     <a ref="https://github.com/Miloskimon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miloskimon&show_icon-true&theme-dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miloskimon&show_icon-true&theme-dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miloskimon&layout-compact&lang_count-16&theme=dracula"/>
 </div>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
