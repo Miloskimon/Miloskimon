@@ -4,7 +4,13 @@
 - 🌱 Lerning Web development 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i from Brazil, Rio de janeiro, Im 21 years Old.   
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Miloskimon&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
