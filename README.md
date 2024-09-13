@@ -1,4 +1,4 @@
-### Hi! Eu sou o Lucas Miloski 👋
+### Hi! Lucas Miloski Here👋
 
 - 🔭 Working on Front-End Development
 - 🌱 Lerning Web development 
